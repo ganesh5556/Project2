@@ -1,2 +1,3 @@
-Hello I am Ganesh
-Hello I am Sachin
+Hello I am Ganesh.
+Hello I am Sachin.
+Hello I am Pavan.
